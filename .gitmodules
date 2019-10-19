@@ -1,0 +1,8 @@
+[submodule "rbac/bo-rbac"]
+	path = rbac/bo-rbac
+	url = git@github.com:rinaldiarie/bo-rbac.git
+	branch = staging
+[submodule "rbac/app-rbac"]
+	path = rbac/app-rbac
+	url = git@github.com:rinaldiarie/app-rbac.git
+	branch = staging
